@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Comfortaa", cursive;
+  background-color: #E4DCCF 0.9;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 100px;
+  font-family: "La Belle Aurore", cursive;
+  color: #132C33;
+  font-size: 500%;
+}
+
+h2 {
+  font-family: "La Belle Aurore", cursive;
+  font-size: 320%;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 65px;
+  color: #051367;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #1A374D;
+}
+
+a {
+  font-size: 120%;
+  color: #051367;
+}
+
+footer {
+  height: 150px;
+  padding-top: 25px;
+  background-color: #B2C8DF;
+}
+
+.header {
+  background-color: #white;
+  position: relative;
+  padding-top: 50px;
+}
+
+
+.bold {
+  text-decoration: underline;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 250px;
+}
+
+.mountains {
+  border-radius: 50%;
+  height: 400px;
+  margin-top: 40px;
+  border-style: double;
+  border-width: medium;
+  border-color: #132C33;
+}
+
+li {
+  padding: 10px;
+  text-align: left;
+}
+
+.publication_types {
+  height: 100px;
+  padding-top: 50px;
+}
+
+.manuscripts_image {
+  height: 50px;
+  padding-left: 200px;
+}
+
+.manuscripts {
+  padding-right: 175px;
+  padding-left: 20px;
+}
+
+.posters {
+  padding-right:175px;
+  padding-left: 20px;
+}
+
+.orals {
+  padding-right: 175px;
+  padding-left: 20px;
+}
+
+.posters_image {
+  height: 50px;
+}
+
+.orals_image {
+  height: 50px;
+}
+
+.btn {
+  font-weight: bolder;
+  font-size: 150%;
+}
+
+.footer-link {
+  font-style: italic;
+  padding-left: 5px;
+  padding-right: 5px;
+}
