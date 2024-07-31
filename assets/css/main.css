@@ -790,7 +790,7 @@ section {
   width: 12px;
   height: 12px;
   background-color: #fff;
-  opacity: 1;
+  opacity: 0;
   background-color: #ddd;
 }
 
